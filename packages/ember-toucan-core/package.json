@@ -42,7 +42,7 @@
     "tailwindcss": "^2.2.15 || ^3.0.0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.20.7",
+    "@babel/runtime": "^7.26.10",
     "@embroider/addon-shim": "^1.0.0",
     "@floating-ui/dom": "^1.4.2",
     "ember-velcro": "^2.1.0"
